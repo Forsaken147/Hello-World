@@ -1,4 +1,4 @@
-#Landing Page
+FullScreenLandingPage
 
 TODO:
 - Make it responive
