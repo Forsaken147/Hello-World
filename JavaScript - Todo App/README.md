@@ -1,3 +1,3 @@
-# TODO APP 
+# TODO Application
 
 Made with JavaScript
