@@ -1,1 +1,2 @@
-# Image Slider Web App
+# Image Slider
+Simple photo slider
