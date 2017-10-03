@@ -1,2 +1,2 @@
-# Front end Projects
-All made in HTML, CSS, JavaScript using jQuery and different frameworks.
+# Front end projects
+- made in HTML, CSS, JavaScript using jQuery and different frameworks.
