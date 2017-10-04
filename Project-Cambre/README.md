@@ -1,1 +1,2 @@
-# Full ScreenLanding Page
+# Landing Page
+- made with Flexbox
