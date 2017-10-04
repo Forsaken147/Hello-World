@@ -1,2 +1,8 @@
-# Front end projects
-- made in HTML, CSS, JavaScript using jQuery and different frameworks.
+# FRONTEND Projects
+
+Practical projects to master applicable skills
+
+# Made with:
+- HTML
+- CSS
+- JavaScript
