@@ -1,6 +1,6 @@
 # FRONTEND Projects
 
-Practical projects to master applicable skills
+Different projects made over time
 
 # Made with:
 - HTML
