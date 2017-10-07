@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css?family=Judson|Montserrat|Quando');
+
+body, html {
+	height: 100%;
+	margin: 0;
+}
+
+.p-img1 .border {
+	font-family: 'Quando', sans-serif;
+	font-size: 52px;
+	font-weight: 300;
+}
+
+
+.section p {
+	font-family: 'Judson', sans-serif;
+	font-weight: 300;
+	font-size: 24px;
+}
+
+.section h2 {
+	font-family: 'Montserrat', sans-serif;
+	color: #666;
+	display: inline-block;
+}
+
+.p-img1, .p-img2, .p-img3 {
+	position: relative;
+	opacity: 0.6;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.p-img1 {
+	background-image:url('../images/img1.jpeg');
+	min-height: 100%;
+}
+
+.p-img2 {
+	background-image:url('../images/img2.jpeg');
+	min-height: 400px;
+}
+
+.p-img3 {
+	background-image:url('../images/img3.jpeg');
+	min-height: 400px;
+}
+
+
+.section {
+	text-align: center;
+	padding: 50px 80px;
+}
+
+.section-light {
+	background-color: #F9F9F9;
+	color: #666;
+}
+
+.section-dark {
+	background-color: #F9F9F9;
+	color: #666;
+}
+
+.p-text {
+	position: absolute;
+	top: 50%;
+	width: 100%;
+	text-align: center;
+	color: #fff;
+	font-size: 28px;
+	letter-spacing: 8px;
+	text-transform: uppercase;
+}
+
+.p-text .border {
+	background-color: #0E2431;
+	color: #fff;
+	padding: 20px;
+}
+
+.p-text .border.trans {
+	background-color: transparent;
+	font-family: 'Segoue UI', sans-serif;
+	font-size: 48px;
+	font-weight: 300;
+}
+
+@media(max-width: 568px){
+	.p-img1, .p-img2, .p-img3{
+		background-attachment: scroll;
+	}
+}
