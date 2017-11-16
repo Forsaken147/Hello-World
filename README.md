@@ -1,4 +1,4 @@
-# FRONTEND Projects
+# Projects
 
 Different projects made over time
 
