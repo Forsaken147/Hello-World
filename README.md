@@ -1,6 +1,6 @@
 # Projects
 
-Different projects made over time
+Lorem ipsum
 
 # Made with:
 - HTML
