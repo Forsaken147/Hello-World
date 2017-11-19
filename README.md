@@ -1,6 +1,6 @@
 # Projects
 
-Lorem ipsum.
+Lorem ipsum
 
 # Used:
 - HTML
