@@ -1,8 +1,8 @@
 # Projects
 
-Lorem ipsum
+Lorem ipsum.
 
-# Made with:
+# Used:
 - HTML
 - CSS
 - JavaScript
