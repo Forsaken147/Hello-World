@@ -1,6 +1,6 @@
 # Projects
 
-Lorem ipsum
+Small projects made over time to get familiar with frameworks and different languages.
 
 # Used:
 - HTML
