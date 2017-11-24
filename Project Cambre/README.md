@@ -1,2 +1,2 @@
 # Landing Page
-- made with Flexbox
+Flexbox Grid
