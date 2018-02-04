@@ -1,0 +1,44 @@
+body {
+  margin: 20px;
+  padding: 0;
+  background: #EBEBEB;
+}
+
+.title {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 64px;
+  color: #222;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 800;
+  margin: 0 0 32px 0;
+}
+
+.container {
+  max-width: 760px;
+  margin: auto;
+  border: rgba(51, 54, 68, 0.4) double 2px;
+  background: #EBEBEB;
+}
+
+.main-img img, .images img {
+  width: 100%;
+}
+
+.images {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 5px;
+}
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+  }
+}
+
+
+.fade-in {
+  opacity: 0;
+  animation: fadeIn 0.5s ease-in 1 forwards;
+}
