@@ -1,2 +1,2 @@
-# Movie Info
-Information about movies with details.
+# Project Armada
+IMDB like website.
