@@ -88,12 +88,14 @@ img {
   font-size: 4rem;
   margin-bottom: 0;
   color: var(--light);
+  text-shadow: var(--shadow);
 }
 
 .showcase p {
   font-size: 1.3rem;
   margin-top: 0;
   color: var(--light);
+  text-shadow: var(--shadow);
 }
 
 .top-box {
@@ -156,6 +158,7 @@ footer {
   color: var(--light);
   text-align: center;
   padding: 1rem;
+  text-shadow: var(--shadow);
 }
 
 @media(max-width: 700px) {
